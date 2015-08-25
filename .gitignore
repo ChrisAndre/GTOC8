@@ -1,0 +1,9 @@
+.idea/
+build/
+junk/
+low_thrust/
+final_solution/
+*~
+*.pyc
+*.so
+*.c
