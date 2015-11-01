@@ -2,6 +2,8 @@ GTOC 8 Solution Generator
 =========================
 Team 31 - Chris Andre, chrisandre01@gmail.com
 ---------------------------------------------
+This was built and tested on Ubuntu. No promises that it will work well or at all on Windows.
+
 Feasible solution generator for GTOC 8.
 
 The solution method relies entirely on the single chemical impulse allotted to each spacecraft. The trajectories are propagated forward until the end of the mission, taking observations as the system state moves into alignment with a radio source.
